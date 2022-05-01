@@ -1,3 +1,5 @@
+pip install autots
+
 from autots import AutoTS
 import streamlit as st
 import pandas as pd
